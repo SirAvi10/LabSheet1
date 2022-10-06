@@ -1,0 +1,11 @@
+C:\Users\P12A367\source\repos\SkillsLab1\SkillsLab1\bin\Debug\SkillsLab1.exe.config
+C:\Users\P12A367\source\repos\SkillsLab1\SkillsLab1\bin\Debug\SkillsLab1.exe
+C:\Users\P12A367\source\repos\SkillsLab1\SkillsLab1\bin\Debug\SkillsLab1.pdb
+C:\Users\P12A367\source\repos\SkillsLab1\SkillsLab1\obj\Debug\SkillsLab1.csproj.AssemblyReference.cache
+C:\Users\P12A367\source\repos\SkillsLab1\SkillsLab1\obj\Debug\SkillsLab1.csproj.SuggestedBindingRedirects.cache
+C:\Users\P12A367\source\repos\SkillsLab1\SkillsLab1\obj\Debug\SkillsLab1.csproj.CoreCompileInputs.cache
+C:\Users\P12A367\source\repos\SkillsLab1\SkillsLab1\obj\Debug\SkillsLab1.exe
+C:\Users\P12A367\source\repos\SkillsLab1\SkillsLab1\obj\Debug\SkillsLab1.pdb
+C:\Users\P12A367\source\repos\SkillsLab1\SkillsLab1\bin\Debug\ClassLibrary1.dll
+C:\Users\P12A367\source\repos\SkillsLab1\SkillsLab1\bin\Debug\ClassLibrary1.pdb
+C:\Users\P12A367\source\repos\SkillsLab1\SkillsLab1\obj\Debug\SkillsLab1.csproj.CopyComplete
